@@ -147,18 +147,10 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) destroy BaseModel 7da56403-cc45-4f1c-ad32-bfafeb2bb050
 (hbnb) show BaseModel 7da56403-cc45-4f1c-ad32-bfafeb2bb050
 ** no instance found **
-(hbnb) quit
-```
+(hbnb) 
 
-## Bugs
-No known bugs at this time. 
+# AUTHORS
+ vincent otis <otis-ke>
 
-## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
-Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
-David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
-Second part of Airbnb: Joann Vuong
-## License
 Public Domain. No copy write protection. 
